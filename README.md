@@ -19,4 +19,4 @@ This project was created after I returned to writing codes after a week-long hia
 I focused on getting my programming thinking back and solving problems only.
 
 
-A shovel in Sudanese hands 
+Made by Sudanese hands
